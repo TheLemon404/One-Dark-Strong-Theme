@@ -195,7 +195,7 @@
             "font_weight": null
           },
           "boolean": {
-            "color": "#bf956aff",
+            "color": "#FFD07DFF",
             "font_style": null,
             "font_weight": null
           },
@@ -210,7 +210,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#dfc184ff",
+            "color": "#FFD07DFF",
             "font_style": null,
             "font_weight": null
           },
@@ -275,7 +275,7 @@
             "font_weight": null
           },
           "number": {
-            "color": "#bf956aff",
+            "color": "#FFD07DFF",
             "font_style": null,
             "font_weight": null
           },
